@@ -4,7 +4,7 @@ import './App.css';
 function App() {
   return (
     <div className="App">
-      <h1>Groovy!</h1>
+      <h1>Groovy! Updating for Heroku.</h1>
     </div>
   );
 }
